@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shirun, call me Alex. Easy as~
 - 👀 I’m interested in travelling.
-- 🌱 I’m currently learning Java based software.
+- 🌱 I’m currently learning HTML, CSS, JS, Node and a little bit of SQL.
 - 💞️ I’m looking to collaborate on passionate friendly and helpful team.
 - 📫 How to reach me ?  If you want, you will meet me.😄
 
